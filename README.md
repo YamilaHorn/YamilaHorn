@@ -3,7 +3,7 @@
 Soy **Software Developer Full Stack** con experiencia en **Rust, AWS, OpenAI y React**.  
 He trabajado desarrollando **microservicios, APIs y soluciones con inteligencia artificial**, enfocándome en código limpio, escalabilidad y buenas prácticas.
 
-Comencé mi camino en programación en 2023 y desde entonces he participado en proyectos reales en producción, integrando IA, desarrollando backend en Rust y creando interfaces modernas.
+Comencé mi camino en programación en 2022 y desde entonces he participado en proyectos reales en producción, integrando IA, desarrollando backend en Rust y creando interfaces modernas.
 
 ---
 
