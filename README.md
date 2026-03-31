@@ -1,37 +1,63 @@
-¡Hola! 👋 Mi nombre es Yamila Horn.
+¡Hola! 👋 Soy Yamila Horn
 
-Soy programadora FullStack orientada al diseño Front-end.
-Este último año me enfoqué en la programación, aprendí muchas habilidades y herramientas nuevas que me hicieron crecer como programadora.   
+Soy Software Developer Full Stack con experiencia en Rust, AWS, OpenAI y React.
+Actualmente trabajo desarrollando microservicios, APIs y soluciones con inteligencia artificial, enfocándome en código limpio, escalabilidad y buenas prácticas.
 
-¿Qué hago? 💻💼
+Comencé mi camino en programación en 2023 y desde entonces he trabajado en proyectos reales en producción, integrando IA, desarrollando backend en Rust y creando interfaces modernas.
 
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programadora. Me gusta poder encontrar la solución a diferentes conflictos a través del código, también me gusta aplicar estilos y diseños.
+¿Qué hago? 💻
+Desarrollo de microservicios y APIs en Rust
+Integración con OpenAI API para automatización y análisis de contenido
+Construcción de chatbots multimodales (texto, audio e imágenes)
+Desarrollo Full Stack con React y Node.js
+Implementación de soluciones en AWS
+Testing con Unit e Integration Tests
+Code reviews y trabajo bajo metodología Agile / Scrum
+Experiencia 🚀
 
-¿A dónde me dirijo? 🚀
+Actualmente trabajo como Software Developer, donde:
 
-Mi objetivo principal es estar en este mundo del código y poder ayudar desde mis conocimientos a resolver conflictos y aplicar las tecnologías que tanto nos facilitan nuestro día a día. 
+Desarrollo servicios y repositorios en Rust
+Creo y mantengo endpoints para APIs internas y externas
+Integro inteligencia artificial con OpenAI
+Trabajo con AWS para despliegue en la nube
+Participo en proyectos productivos reales
+Realizo code reviews y documentación técnica
+Tecnologías 🛠️
+Lenguajes
+Rust
+JavaScript
+TypeScript
+Frontend
+React
+Redux
+HTML
+CSS
+Bootstrap
+Backend
+Node.js
+Express
+PostgreSQL
+Sequelize
+AI & APIs
+OpenAI API
+ChatGPT
+Integración multimodal (texto, audio, imagen)
+Cloud & Tools
+AWS
+Git
+Jira
+Slack
+Agile / Scrum
+Sobre mí 👩‍💻
 
-¿Qué tecnologías uso? 👨‍💻
+Me gusta resolver problemas complejos a través del código, aprender nuevas tecnologías y trabajar en proyectos que generen impacto real.
+Estoy siempre buscando mejorar mis habilidades tanto técnicas como de comunicación dentro de equipos de desarrollo.
 
-El Bootcamp de Henry me ha ayudado a adquirir diferentes tipos de tecnologías como:
+Contacto 📬
 
-- JavaScript
-- HTML
-- React.js
-- Node.js
-- Express.js
-- PostgreSQL
-- Sequelize
-- GIT
-- CSS
-- TypeScript
+📧 Email: hornmacarena12@hotmail.com
 
-Además de las herramientas aprendidas en Henry, también desarrollé las habilidades blandas. Las adquirí desarrollándome como Teaching Assistant durante el curso.
+💼 LinkedIn: https://www.linkedin.com/in/yamila-horn-733542269/
 
-
-Mis canales de contacto son: 
-
-- Correo: hornmacarena12@hotmail.com
-
-- Linkedln: https://www.linkedin.com/in/yamila-horn-733542269/
-
+🐙 GitHub: https://github.com/YamilaHorn
